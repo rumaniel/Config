@@ -9,3 +9,5 @@
 [JSON Tools](https://marketplace.visualstudio.com/items?itemName=eriklynd.json-tools)
 
 [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
+
+[TODO tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
