@@ -11,3 +11,5 @@
 [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
 
 [TODO tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
+
+[Unity code snippets](https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets)
